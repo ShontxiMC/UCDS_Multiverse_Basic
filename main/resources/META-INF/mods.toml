@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="ucds_multiverse" # <-- Corregido con la 'e' al final para que coincida con tu gradle.properties
+version="0.0.1"
+displayName="UCDS Multiverse"
+authors="Shon"
+description='''
+Nada
+'''
+
+[[dependencies.ucds_multiverse]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ucds_multiverse]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ucds_multiverse:item/electricitygem"
+  }
+}

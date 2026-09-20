@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ucds_multiverse:block/inhibidor"
+  }
+}
